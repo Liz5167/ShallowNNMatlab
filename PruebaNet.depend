@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1708980345 source:c:\users\lizeth\onedrive - instituto politecnico nacional\documents\test opencv\pruebanet\simulatestandalonenet.cpp
+	"simulateStandaloneNet.h"
+	<cmath>
+
+1708980345 c:\users\lizeth\onedrive - instituto politecnico nacional\documents\test opencv\pruebanet\simulatestandalonenet.h
+	"rtwtypes.h"
+	<cstddef>
+	<cstdlib>
+
+1708980345 c:\users\lizeth\onedrive - instituto politecnico nacional\documents\test opencv\pruebanet\rtwtypes.h
+	"tmwtypes.h"
+
+1668889394 c:\users\lizeth\onedrive - instituto politecnico nacional\documents\test opencv\pruebanet\tmwtypes.h
+	"mwstdint.h"
+	<limits.h>
+	<stdbool.h>
+	<float.h>
+	<stddef.h>
+
+1708980345 source:c:\users\lizeth\onedrive - instituto politecnico nacional\documents\test opencv\pruebanet\simulatestandalonenet_initialize.cpp
+	"simulateStandaloneNet_initialize.h"
+
+1708980345 c:\users\lizeth\onedrive - instituto politecnico nacional\documents\test opencv\pruebanet\simulatestandalonenet_initialize.h
+	"rtwtypes.h"
+	<cstddef>
+	<cstdlib>
+
+1708980345 source:c:\users\lizeth\onedrive - instituto politecnico nacional\documents\test opencv\pruebanet\simulatestandalonenet_terminate.cpp
+	"simulateStandaloneNet_terminate.h"
+
+1708980345 c:\users\lizeth\onedrive - instituto politecnico nacional\documents\test opencv\pruebanet\simulatestandalonenet_terminate.h
+	"rtwtypes.h"
+	<cstddef>
+	<cstdlib>
+
